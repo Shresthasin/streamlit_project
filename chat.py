@@ -9,7 +9,7 @@ MODEL_NAME = "gemini-3.1-flash-lite"
 
 # --- Initialize ---
 st.title("💬 Gemini QA App")
-GOOGLE_API_KEY = st.text_input("Enter your api key", type="Password")
+GOOGLE_API_KEY = st.text_input("Enter your api key", type="password")
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel(MODEL_NAME)
 

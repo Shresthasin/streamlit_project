@@ -5,7 +5,7 @@ import numpy as np
 import google.generativeai as genai
 
 # configure API key (must be set by user)
-GOOGLE_API_KEY = st.text_input("Enter your api key", type="Password")
+GOOGLE_API_KEY = st.text_input("Enter your api key", type="password")
 genai.configure(
     api_key=GOOGLE_API_KEY)
 # load model
