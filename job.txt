@@ -1,0 +1,65 @@
+About the job
+About Us
+Nexora Commerce — the engine behind Tudoholic
+Nexora Commerce Pvt. Ltd. is the company building the technology, data, and operating systems behind Tudoholic — one of Nepal’s largest fashion and lifestyle e-commerce operations.
+We run a high-velocity, cash-on-delivery model: products are discovered, sourced from China, imported, quality-checked, and delivered across Nepal at a scale that demands serious operational and engineering rigor. The business is profitable, growing fast, and deeply data-driven — we already build our own internal tools for pricing, profitability, quality scoring, demand intelligence, and fulfillment.
+What makes the next phase different is ownership. We are moving from off-the-shelf commerce platforms to our own ERP, our own algorithms, and our own machine-learning models — systems designed specifically for the economics of high-volume, COD, cross-border retail.
+
+The Founder’s Story
+Ten years ago, this started as a few hundred orders a day. Today we move roughly a thousand orders every single day across Nepal — cash on delivery, sourced entirely from China, run on a stack we have stretched, bent, and out-engineered well past what it was designed to do.
+We are now at the point where the next phase of growth will not come from working the same systems harder. It will come from building our own.
+Over the next two to three years we intend to grow from one thousand orders a day to five thousand, and then ten thousand. That is not a marketing ambition — it is an engineering and operations problem. It means a catalog moving toward millions of SKUs, a supplier network approaching a quarter-million sources in China, and decisions about pricing, inventory, demand, and fulfillment that no human team can make fast enough, or often enough, by hand.
+So we are building our own. Our own algorithms. Our own models. Our own commerce engine that crunches millions of data points, learns from every order, and corrects itself over time. We will move off the platforms we have outgrown and onto systems we own end to end.
+To do that, we are hiring five senior people in 2026 — the architects, builders, and operators who will design and run that engine. This is one of them.
+Sagun
+Founder, Nexora Commerce Pvt. Ltd.
+Role 05
+
+ We’re Hiring
+QA Engineer
+The person who makes sure the systems we bet the business on actually work.
+Reports to Eng Lead / PM Openings 1 position Location Nepal or India
+ Hybrid Level Senior
+What You’d Be Walking Into
+~1,000 orders/day today, scaling toward 5,000 and then 10,000 over the next 2–3 years.
+A distinctive model: 100% cash on delivery, 100% China-sourced, Nepal market — unique data, margin, and logistics challenges you won’t find in a textbook.
+A real build agenda: a custom ERP, profitability and quality dashboards, demand and pricing engines, and a roadmap toward proprietary ML models.
+A builder’s culture: a founder who builds alongside the team, prototypes tools personally, and respects people who think in systems.
+
+The Mission
+When thousands of orders a day flow through systems you built yourself, quality isn’t a nice-to-have — it’s the difference between a smooth operation and a very expensive bad day. As we build our own ERP, integrations, and algorithms, we need someone whose entire job is making sure it all holds up.
+We’re hiring a senior QA engineer to own quality across our platform — to build the testing discipline, catch the problems before customers and operators do, and give the whole team the confidence to ship fast without breaking the things that matter.
+
+What You’ll Own
+Test strategy: design and own the QA approach across our ERP, internal tools, integrations, and commerce systems.
+Manual & automated testing: build test plans and automated suites that catch regressions early and run continuously.
+Integration quality: validate the connections between systems — commerce, operations, sourcing, payments, ads — where the costly bugs hide.
+Release confidence: partner with engineering on CI/CD so quality gates are built into how we ship, not bolted on after.
+Advocacy: be the voice of the operator and the customer in every release, and raise the quality bar across the team.
+
+Who You Are
+4+ years in QA / quality engineering with both manual and automated testing experience.
+Strong with test automation frameworks and comfortable testing web apps, APIs, and integrations.
+A sharp, detail-oriented mind that instinctively finds the edge cases and failure modes others miss.
+Able to work closely with developers and embed quality early in the cycle, not just at the end.
+Comfortable owning quality in a fast-moving, high-volume environment.
+
+Bonus Points
+Experience with CI/CD pipelines and quality automation.
+Background testing ERP, e-commerce, or data-heavy systems.
+Familiarity with performance and load testing at scale.
+
+What Success Looks Like
+Within 6 months: there’s a real QA discipline in place, automated coverage is growing, regressions are caught before release, and the team ships faster because they trust the quality gates you built.
+
+Why This Role, Why Now
+At a thousand orders a day a bad release is a rough afternoon. At ten thousand it’s a five-figure mistake before lunch. We’re building the systems that money and operations will depend on entirely — and quality discipline is far cheaper to build in now than to retrofit later. You’re not joining to test someone else’s finished product; you’re here to make sure the foundation is sound while it’s still being poured.
+
+How To Apply
+Send your CV and a short note on the most relevant thing you’ve built or run — plus a link to your work if you have one.
+
+Apply to: hr@tudoholic.com
+Subject: QA Engineer — Your Name
+Open to candidates in: Nepal & India
+
+We read every application personally. If there’s a fit, you’ll hear from us.
